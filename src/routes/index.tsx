@@ -220,7 +220,7 @@ export function Index() {
             <p className="mt-3 text-[0.6rem] font-medium uppercase tracking-[0.12em] text-why-cta drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)] sm:mt-4 sm:text-xs sm:tracking-[0.22em]">
               Quality Training for Healthy Living
             </p>
-            <p className="mt-3 hidden text-[0.7rem] leading-relaxed text-white/90 drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)] sm:mt-5 sm:block sm:text-sm sm:leading-7">
+            <p className="mt-3 text-[0.62rem] leading-[1.6] sm:mt-5 text-white/90 drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)] sm:text-sm sm:leading-7">
               North East Yoga Meditation Centre in Guwahati, Assam, is a
               premier sanctuary for holistic well-being and professional growth.
               Whether you are seeking personal healing or aspiring to become a
