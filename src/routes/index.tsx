@@ -262,14 +262,6 @@ export function Index() {
         aria-labelledby="about-heading"
         className="about-feature relative overflow-hidden bg-about-canvas px-5 pb-14 pt-6 sm:px-6 sm:pb-20 sm:pt-10 lg:px-8 lg:pb-24"
       >
-        <div className="relative z-10 mx-auto mb-10 max-w-xl space-y-3 text-sm leading-6 text-about-on-navy sm:hidden">
-          <p>
-            North East Yoga Meditation Centre in Guwahati, Assam, is a premier sanctuary for holistic well-being and professional growth. Whether you are seeking personal healing or aspiring to become a certified instructor, our expert-led programs empower you to transform your life.
-          </p>
-          <p>
-            Experience the authentic power of daily practices, or build your career with our accredited yoga teacher training and diploma certifications.
-          </p>
-        </div>
         <svg
           aria-hidden="true"
           viewBox="0 0 200 200"
