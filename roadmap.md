@@ -6,3 +6,4 @@
 - [x] Verify desktop + mobile preview
 - [x] Replace opening video with optimized Git-synced animated WebP and still fallback
 - [x] Improve opening animation clarity and restore the missing phone-view description
+- [ ] Add The Sentinel's Northeast yoga-centres feature with the supplied poster, optimized below 100 KB as a Git-synced WebP
