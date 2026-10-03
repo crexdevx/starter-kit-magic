@@ -178,7 +178,7 @@
   --sidebar-accent-foreground: oklch(0.208 0.042 265.755);
   --sidebar-border: oklch(0.929 0.013 255.508);
   --sidebar-ring: oklch(0.704 0.04 256.788);
-  --about-canvas: oklch(0.93 0.03 80);
+  --about-canvas: oklch(1 0 0);
   --about-navy: oklch(0.235 0.06 250);
   --about-on-navy: oklch(0.99 0.003 95);
   --about-muted: oklch(0.9 0.018 245);
@@ -393,7 +393,7 @@
 
 .why-us-section {
   position: relative;
-  background-color: oklch(0.97 0.08 95);
+  background-color: oklch(0.93 0.12 95);
 }
 
 .courses-scroll {
